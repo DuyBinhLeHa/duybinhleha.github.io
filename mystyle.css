@@ -1,0 +1,79 @@
+body {
+	background-image: linear-gradient(to top left,#C2D307,#0ED2DC);
+	font-family: sans-serif;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.link-gsu {
+	text-align: center;
+}
+
+img {
+	width: 150px;
+	height: 200px;
+	border-radius: 5px;
+	display: block;
+	margin: 25px auto;
+}
+
+table {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+		
+caption {
+	color: #FC3F3F;
+	text-align: center;
+	font-size: 30px;
+}
+
+td, th {
+	height: 50px;
+	width: 50%;
+}
+
+.head-table {
+	background-color: #426ff5;
+	color: #FFFFFF;
+}
+
+.row1-table {
+	background-color: #F58742;
+}
+
+.row2-table {
+	background-color: #42F5DD;
+}
+
+.row3-table {
+	background-color: #FFAAE8;
+}
+
+.hobbies, .hobbies a {
+	color: #0000FF;
+}
+
+.education-job, .education-job a {
+	color: #AA341B;
+}
+
+.favorite-quotes, .favorite-quotes a {
+	color: #C908C9;
+}
+
+.other-web-interest, .other-web-interest a {
+	color: #E67410;
+}
+
+a:hover {
+	color: #FFFF00;
+}
+		
+span {
+	color: red;
+	font-weight: bold;
+}
